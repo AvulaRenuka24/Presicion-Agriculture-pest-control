@@ -1,0 +1,11 @@
+# python=3.11
+flask 
+sentence-transformers 
+torch
+numpy==1.26
+pandas==2.1 
+scipy scikit-learn
+conda install -c conda-forge faiss-cpu numpy -y
+pip install numpy==1.26.4
+pip install scipy==1.11.4
+pip install scikit-learn==1.3.2
